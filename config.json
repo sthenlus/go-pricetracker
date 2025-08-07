@@ -1,0 +1,45 @@
+{
+  "targets": [
+    {
+      "url": "https://www.amazon.com.tr/Samsung-SATA-Dahili-S%C3%BCr%C3%BCc%C3%BCs%C3%BC-MZ-77Q1T0/dp/B089QXQ1TV?ref=dlx_deals_dg_dcl_B089QXQ1TV_dt_sl14_50_pi&pf_rd_r=HD524QVDPJAQ9C88W6P3&pf_rd_p=8a28691c-5cd1-4a9b-974a-471520c1e250&th=1",
+      "name_selector": "#title",
+      "price_selector": "#corePriceDisplay_desktop_feature_div > div.a-section.a-spacing-none.aok-align-center.aok-relative > span.a-price.aok-align-center.reinventPricePriceToPayMargin.priceToPay > span:nth-child(2) > span.a-price-whole"
+    },
+    {
+      "url": "https://www.amazon.com.tr/Samsung-Telefon-Android-T%C3%BCrkiye-Garantili/dp/B0DGXZWTMX",
+      "name_selector": "#title",
+      "price_selector": "#corePriceDisplay_desktop_feature_div .a-price-whole"
+    },
+    {
+      "url": "https://www.amazon.com.tr/Samsung-Galaxy-Telefon-T%C3%BCrkiye-Garantili/dp/B0DRCMZJPG",
+      "name_selector": "#title",
+      "price_selector": "#corePriceDisplay_desktop_feature_div .a-price-whole"
+    },
+    {
+      "url": "https://www.amazon.com.tr/Samsung-Galaxy-Tablet-T%C3%BCrkiye-Garantili/dp/B0DQLFW7RB/?_encoding=UTF8&pd_rd_w=i0bCN&content-id=amzn1.sym.e292f220-0525-4178-8bbb-976fff80d629&pf_rd_p=e292f220-0525-4178-8bbb-976fff80d629&pf_rd_r=XBD2BJ1H8V2CKXM81KNA&pd_rd_wg=s65bo&pd_rd_r=51bb64ea-90cf-4eea-b23b-4bc73dbfec1f&ref_=pd_hp_d_atf_dealz_cs&th=1",
+      "name_selector": "#title",
+      "price_selector": "#corePriceDisplay_desktop_feature_div > div.a-section.a-spacing-none.aok-align-center.aok-relative > span.a-price.aok-align-center.reinventPricePriceToPayMargin.priceToPay > span:nth-child(2) > span.a-price-whole"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
+
+}
