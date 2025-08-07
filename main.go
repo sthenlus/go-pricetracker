@@ -1,5 +1,6 @@
 package main
 
+// Fiyat Takip Servisiconfig
 import (
 	"encoding/json"
 	"fmt"
